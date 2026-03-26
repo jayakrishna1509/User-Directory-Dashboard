@@ -1,4 +1,4 @@
-# User Directory Dashboard
+# User Directory Dashboard - Frontend Assignment from BuyerForeSight
 
 ## Overview
 
@@ -10,7 +10,7 @@ The application allows users to browse, search, sort, and view detailed informat
 
 ## API Used
 ```
-[https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
+https://jsonplaceholder.typicode.com/users
 ```
 ---
 
