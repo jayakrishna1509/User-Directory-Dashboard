@@ -9,9 +9,9 @@ The application allows users to browse, search, sort, and view detailed informat
 ---
 
 ## API Used
-
+```
 [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
-
+```
 ---
 
 ## Features
@@ -99,7 +99,7 @@ npm install
 4. Start the development server
 
 ```
-npm start
+npm run dev
 ```
 
 ---
